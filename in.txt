@@ -1,0 +1,26 @@
+25
+5 3ab
+1 -3ag
+0 2ag
+-3 2ag
+-4 -4ag
+0 -5ag
+3 4ab
+-2 -4ag
+2 -1ag
+4 1ag
+0 3ab
+-1 3ab
+3 -4ag
+-5 5ab
+4 5ab
+0 3ab
+-1 4ab
+3 2ab
+0 5ab
+2 4ab
+5 4ab
+-3 -2ag
+4 4ab
+3 0ag
+3 5ab
